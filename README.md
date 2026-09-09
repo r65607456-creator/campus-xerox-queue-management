@@ -1,3 +1,13 @@
+CSBS-G07
+Problem statement:Campus Xerox & Printing Shop Queue
+Members:
+1.MONESH KUMAR N
+2.NAVEEN KUMAR C
+3.RAHUL K
+4.NISHANTHI S
+
+
+
 # campus-xerox-queue-management
 Queue management system for Campus Xerox and Printing Shop
 index.html:
